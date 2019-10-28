@@ -2,6 +2,6 @@ package com.qa.hello;
 
 public class Hello2 {
 	public static void main(String[] args) {
-		System.out.println("ÕâÀïÊÇHello2¿Õ¼ä");
+		System.out.println("æ°´ç”µè´¹æ— è‹¥ç¾¤çƒ­è‹¥ç¾¤ç¿æ— ç¾¤è‹¥");
 	}
 }
